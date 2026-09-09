@@ -1,0 +1,1 @@
+# In this folder rust programming examples are available
